@@ -1,8 +1,8 @@
 # Black Of Game
 
-<h3 align="left">Rejoignez nous:</h3>
+<h3 align="left">Mod Menu:</h3>
 <p align="left">
-<a href="https://blackofgame.fr/discord" target="blank"><img align="center" src="https://img.shields.io/badge/Black%20Of%20Game-%237289DA.svg??style=plastic&logo=discord&logoColor=white" alt="https://blackofgame.fr/discord" height="35" /></a>
+<a href="https://discord.gg/ABwCDdSukb" target="blank"><img align="center" src="https://img.shields.io/badge/Menu%20Project-%237289DA.svg??style=plastic&logo=discord&logoColor=white" alt="https://blackofgame.fr/discord" height="35" /></a>
 </p>
 <a href="https://stricky.alwaysdata.net/bog/connection.php" target="blank"><img align="center" src="https://stricky.alwaysdata.net/gmod.svg??style=plastic&logo=&logoColor=white" alt="https://stricky.alwaysdata.net/bog/connection.php" height="35" /></a>
 </p>
