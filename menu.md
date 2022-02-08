@@ -1,5 +1,9 @@
 ## Mod Menu
 
+<p align="left">
+<a href="https://discord.gg/ABwCDdSukb" target="blank"><img align="center" src="https://img.shields.io/badge/Menu%20Project-%237289DA.svg??style=plastic&logo=discord&logoColor=white" alt="https://blackofgame.fr/discord" height="35" /></a>
+</p>
+
 ```
 Mod Menu
 │
@@ -65,6 +69,3 @@ Mod Menu
     │
     └─ Réinjecte Backdoor/. ✓
 ```
-<p align="left">
-<a href="https://discord.gg/ABwCDdSukb" target="blank"><img align="center" src="https://img.shields.io/badge/Menu%20Project-%237289DA.svg??style=plastic&logo=discord&logoColor=white" alt="https://blackofgame.fr/discord" height="35" /></a>
-</p>
