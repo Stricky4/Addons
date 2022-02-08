@@ -69,3 +69,5 @@ Mod Menu
     │
     └─ Réinjecte Backdoor/. ✓
 ```
+
+##### FR/EN
