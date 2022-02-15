@@ -10,7 +10,7 @@
 ## Liste Addon
 - Exemple of addon i made:
 - Exemple d'addon que j'ai fait:
-- [x] TAB
+- [x] ScoreBoard
     - [x] Work
     - [x] Can be custom
 
