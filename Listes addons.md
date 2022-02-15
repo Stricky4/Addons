@@ -18,4 +18,8 @@
     - [x] Work
     - [x] Can be custom
 
+- [x] Gps
+    - [x] Work
+    - [x] Can be custom
+
 ##### FR/EN
