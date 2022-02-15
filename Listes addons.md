@@ -8,7 +8,8 @@
 - Je suis développeur, vous pouvez me contacter pour plus d'informations.
 
 ## Liste Addon
- exemple addon i made:
+- Exemple of addon i made:
+- Exemple d'addon que j'ai fait:
 - [x] TAB
     - [x] Work
     - [x] Can be custom
